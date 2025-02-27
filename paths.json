@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-designs/:/",
-      "/content/citisignal-designs/configuration:/.helix/config.json",
-      "/content/citisignal-designs/metadata:/metadata.json",
-      "/content/citisignal-designs/configs:/configs.json",
-      "/content/citisignal-designs/configs-stage:/configs-stage.json",
-      "/content/citisignal-designs/configs-dev:/configs-dev.json",
-      "/content/citisignal-designs/redirects:/redirects.json",
-      "/content/citisignal-designs/placeholders:/placeholders.json",
-      "/content/citisignal-designs/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-designs/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/sanfran/:/",
+      "/content/sanfran/configuration:/.helix/config.json",
+      "/content/sanfran/metadata:/metadata.json",
+      "/content/sanfran/configs:/configs.json",
+      "/content/sanfran/configs-stage:/configs-stage.json",
+      "/content/sanfran/configs-dev:/configs-dev.json",
+      "/content/sanfran/redirects:/redirects.json",
+      "/content/sanfran/placeholders:/placeholders.json",
+      "/content/sanfran/products/recommended-products:/products/recommended-products.json",
+      "/content/sanfran/enrichment/enrichment:/enrichment/enrichment.json",
       "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-designs",
+      "/content/sanfran",
       "/content/dam/citisignal/images/products/"
     ]
 }
